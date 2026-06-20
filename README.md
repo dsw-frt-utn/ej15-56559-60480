@@ -1,7 +1,7 @@
 # Integrantes
 - Rusconi Mateo , legajo:56559
 - Martorell Francisco , legajo: 60480
-- 
+
 # Ejercicio N° 15
 ## Desarrollo de Software
 
